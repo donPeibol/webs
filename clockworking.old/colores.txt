@@ -1,0 +1,6 @@
+gris: #323232 rgb(50,50,50)
+naranja: #ff9e15  rgb(255,158,21)
+Naranja Oscuro: #D68512  rgb(214.133.18)
+Negro: #1c1c1b  rgb(28.28.27)
+naranja oscuro2: #7e5319 rgb(126,83,25)
+rojo yelp: #E50A00 rgb(196,18,0)
